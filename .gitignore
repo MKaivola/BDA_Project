@@ -1,0 +1,5 @@
+*.rds
+project_presentation.Rmd
+beta_plot.R
+Images/
+*.RHistory
